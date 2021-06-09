@@ -1,0 +1,29 @@
+{
+    "paymets": [
+        {
+            "credit": "debit",
+            "amount": 50,
+            "message": "cash withdrow"
+        },
+        {
+            "credit": "credit",
+            "amount": 6985,
+            "message": "Anjaly hamsa wedding Video editing"
+        },
+        {
+            "credit": "credit",
+            "amount": 2000,
+            "message": "Sojan  sona album design"
+        },
+        {
+            "credit": "debit",
+            "amount": 1500,
+            "message": "Drinks"
+        },
+        {
+            "credit": "credit",
+            "amount": 2000,
+            "message": "Jibin Sojan Engagement Video editing"
+        }
+    ]
+}

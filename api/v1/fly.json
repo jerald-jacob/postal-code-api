@@ -1,0 +1,148 @@
+9{
+	"data": {
+		"type": "[Membership] enroll",
+		"id": "64086ae2bb43b0e46aa13b80",
+		"subType": "INDIVIDUAL",
+		"contact": {
+			"emails": [{
+				"category": "PERSONAL",
+				"address": "gklgd@msil.com",
+				"emailAddressType": "EMAIL_ID",
+				"isMain": true
+			}],
+			"phones": [{
+				"category": "PERSONAL",
+				"deviceType": "MOBILE",
+				"countryCallingCode": "+91",
+				"number": "9999888888",
+				"isMain": true,
+				"isValid": true
+			}],
+			"addresses": [{
+				"category": "PERSONAL",
+				"lines": [
+					"address1"
+				],
+				"postalCode": "78906",
+				"countryCode": "GB",
+				"cityName": "citya",
+				"isMain": true,
+				"isValid": true
+			}]
+		},
+		"activeTier": {
+			"code": "STDBAS",
+			"startDate": "2023-03-07",
+			"priorityCode": "1",
+			"tierType": "MAIN",
+			"level": "BAS"
+		},
+		"points": [{
+			"category": "RP",
+			"balance": 0
+		}],
+		"individual": {
+			"identity": {
+				"names": [{
+					"romanized": {
+						"firstName": "fname",
+						"lastName": "Snmae",
+						"title": "MR"
+					}
+				}],
+				"nationalities": [
+					"GB"
+				],
+				"birthDate": "2000-05-03",
+				"gender": "MALE"
+			},
+			"consents": [{
+					"providedAt": "2023-03-08T11:11:10.546Z",
+					"status": "GRANTED",
+					"to": "FFP_DEPARTMENT",
+					"for": "MARKETING OFFERS",
+					"via": [
+						"SMS"
+					]
+				},
+				{
+					"providedAt": "2023-03-08T11:11:10.546Z",
+					"status": "GRANTED",
+					"to": "FFP_DEPARTMENT",
+					"for": "MARKETING OFFERS",
+					"via": [
+						"EMAIL"
+					]
+				},
+				{
+					"providedAt": "2023-03-08T11:11:10.546Z",
+					"status": "GRANTED",
+					"to": "AI",
+					"for": "MARKETING OFFERS",
+					"via": [
+						"SMS"
+					]
+				},
+				{
+					"providedAt": "2023-03-08T11:11:10.546Z",
+					"status": "GRANTED",
+					"to": "AI",
+					"for": "MARKETING OFFERS",
+					"via": [
+						"EMAIL"
+					]
+				},
+				{
+					"providedAt": "2023-03-08T11:11:10.546Z",
+					"status": "GRANTED",
+					"to": "PARTNER",
+					"for": "MARKETING OFFERS",
+					"via": [
+						"EMAIL"
+					]
+				},
+				{
+					"providedAt": "2023-03-08T11:11:10.547Z",
+					"status": "GRANTED",
+					"to": "PARTNER",
+					"for": "ACCOUNT INFO",
+					"via": [
+						"EMAIL"
+					]
+				}
+			],
+			"completeness": {
+				"percentage": 100
+			},
+			"preferences": [{
+					"category": "FLIGHT",
+					"subCategory": "MEAL",
+					"value": "AVML"
+				},
+				{
+					"category": "FLIGHT",
+					"subCategory": "SEAT",
+					"value": "AISL"
+				},
+				{
+					"category": "INTEREST",
+					"subCategory": "FOOD & DRINK",
+					"value": "FOOD & DRINK"
+				},
+				{
+					"category": "INTEREST",
+					"subCategory": "TECHNOLOGY",
+					"value": "TECHNOLOGY"
+				}
+			]
+		},
+		"statusDetails": {
+			"main": "OPEN"
+		},
+		"membershipId": "300015371",
+		"enrollment": {
+			"date": "2023-03-08",
+			"source": "WEBSITE"
+		}
+	}
+}
